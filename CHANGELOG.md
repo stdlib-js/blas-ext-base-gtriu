@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-26)
+## Unreleased (2026-07-31)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`d389b17`](https://github.com/stdlib-js/stdlib/commit/d389b17e2d3a7899dd14810d2e39d507dbe11ab4) - **test:** fix test messages _(by Athan Reines)_
 -   [`651f410`](https://github.com/stdlib-js/stdlib/commit/651f4109889b710391c1044daf4eacd9a3df339c) - **feat:** add `blas/ext/base/gtriu` [(#13580)](https://github.com/stdlib-js/stdlib/pull/13580) _(by Kaustubh Patange, Athan Reines)_
 
 </details>
